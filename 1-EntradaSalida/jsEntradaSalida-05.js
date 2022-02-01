@@ -12,8 +12,22 @@ function mostrar()
 	edad = document.getElementById("txtIdEdad").value;
 
 	//muestro por alert
-	alert("Usted se llama " + nombre + "y tiene " + edad + " años");
+	alert("Usted se llama " + nombre + " y tiene " + edad + " años");
 
 }
 //txtIdNombre
 //txtIdEdad
+
+/*
+
+declaro variables
+
+entrada:
+id
+
+proceso:
+
+salida:
+-alert
+
+*/

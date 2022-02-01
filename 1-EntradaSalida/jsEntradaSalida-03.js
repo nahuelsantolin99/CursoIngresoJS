@@ -20,6 +20,8 @@ function mostrar()
 
 /*
 
+declaro variable 
+
 entrada
 -prompt
 -id

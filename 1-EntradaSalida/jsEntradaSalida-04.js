@@ -15,3 +15,17 @@ function mostrar()
 }
 
 //txtIdNombre
+
+/*
+
+declaro variable
+
+entrada:
+-prompt
+
+proceso:
+
+salida:
+-id
+
+*/
