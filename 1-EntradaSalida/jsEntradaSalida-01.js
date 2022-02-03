@@ -7,5 +7,6 @@ function mostrar()
 {
 	//muestra una ventana emergente con el mensaje
 	alert("Esto funciona de maravilla");
+
 }
 

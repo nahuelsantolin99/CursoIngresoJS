@@ -17,6 +17,7 @@ function mostrar()
 	alert("Usted se llama " + nombre + " y tiene " + edad + " años");
 
 }
+
 //txtIdNombre
 //txtIdEdad
 
